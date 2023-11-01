@@ -1,0 +1,64 @@
+{
+    "apprDetails": [
+        {
+            "id": 1,
+            "name": "Some course",
+            "startDate": "2022-01-01",
+            "endDate": "2023-12-24",
+            "createdOn": "2021-10-01",
+            "createdBy": "xx1234",
+            "updatedOn": "2021-10-01",
+            "updatedBy": "xx1234",
+            "version": "xxxxx",
+            "fullTimeDurationInMonths": 24,
+            "probationPeriodInMonths": 3,
+            "apprenticeshipTypeCode": "a"
+            
+        },
+        {
+            "id": 2,
+            "name": "Another course",
+            "startDate": "2022-01-01",
+            "endDate": "2023-12-24",
+            "createdOn": "2021-10-01",
+            "createdBy": "xx1234",
+            "updatedOn": "2021-10-01",
+            "updatedBy": "xx1234",
+            "version": "xxxxx",
+            "fullTimeDurationInMonths": 18,
+            "probationPeriodInMonths": 5,
+            "apprenticeshipTypeCode": "a"
+            
+        },
+        {
+            "id": 3,
+            "name": "Nother one",
+            "startDate": "2022-01-01",
+            "endDate": "2023-12-24",
+            "createdOn": "2021-10-01",
+            "createdBy": "xx1234",
+            "updatedOn": "2021-10-01",
+            "updatedBy": "xx1234",
+            "version": "xxxxx",
+            "fullTimeDurationInMonths": 36,
+            "probationPeriodInMonths": 6,
+            "apprenticeshipTypeCode": "a"
+            
+        },
+        {
+            "id": 4,
+            "name": "And Again",
+            "startDate": "2022-01-01",
+            "endDate": "2023-12-24",
+            "createdOn": "2021-10-01",
+            "createdBy": "xx1234",
+            "updatedOn": "2021-10-01",
+            "updatedBy": "xx1234",
+            "version": "xxxxx",
+            "fullTimeDurationInMonths": 12,
+            "probationPeriodInMonths": 1,
+            "apprenticeshipTypeCode": "t"
+            
+        }
+    ]
+}
